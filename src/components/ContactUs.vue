@@ -13,7 +13,7 @@
             James Oquendo Agudelo
           </v-card-title>
           <v-card-text class="bg-white text--primary">
-            <p>James Oquendo Agudelo esta en todos lados, en todas partes, al mismo tiempo, donde quiera que estes, el podra encontrarte si necesitas de su ayuda, por eso si lo necesitas urgentemente, acá te brindamos 5 maneras para buscar su ayuda y apoyo, que bendición ve, asi que dale, caontactalo.</p>
+            <p>James Oquendo Agudelo esta en todos lados, en todas partes, al mismo tiempo, donde quiera que estes, el podra encontrarte si necesitas de su ayuda, por eso si lo necesitas urgentemente, acá te brindamos 5 maneras para buscar su ayuda y apoyo, que bendición ve, asi que dale, contactalo.</p>
             <router-link to="/Login" style="text-decoration: none;">
             <v-btn
               :color="item.color"
